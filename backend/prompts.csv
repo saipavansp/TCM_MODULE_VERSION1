@@ -4,7 +4,7 @@ Customer: [Hangs up or remains silent]
 Agent: I apologize, ma’am it appears there’s an internet issue on my end. This call is 
 regarding our [X product]. 
 [If the customer disconnects again, mark the call as rejected and move to the next lead.]","no response, hang-up, rejected call"
-Prompt 2:Busy Customer,"The customer indicates they are busy or requests a callback at a later time instead of 
+Prompt 2: Busy Customer,"The customer indicates they are busy or requests a callback at a later time instead of
 hanging up.","Agent: Hello, ma’am. Good afternoon. I am [Your Name]. Am I speaking with Ms. Sara? 
 Customer: Actually, I’m a bit busy with work right now—or I don’t have time at the moment. 
 Agent: I completely understand. May I schedule a callback? Would you prefer after 6 PM or 

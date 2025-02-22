@@ -4,7 +4,7 @@ venv/
 __pycache__/
 
 # Environment variables
-.env
+backend/.env
 .env.local
 .env.development.local
 .env.test.local

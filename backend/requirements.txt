@@ -1,0 +1,6 @@
+pandas
+python-dotenv
+langchain
+langchain-groq
+langchain-openai
+flask
